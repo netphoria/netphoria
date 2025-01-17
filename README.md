@@ -3,8 +3,7 @@
 # 👋 Hi, I'm Netphoria!
 👩🏻‍💻 Software Engineer /self taught/ <br/>
 👩🏻‍🎓 Studied [Recording Engineering](https://) at AES<br/>
-🎨 Making art with software
-🌷 I use AI, but that wont replace my humanity and creative skills<br/>
+🎨 Making art with software<br/>
 💭 Can understand or speak in Spanish, English, French, among others!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
