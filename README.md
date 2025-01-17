@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Netphoria!
+# 👋 Hi, welcome!
 👩🏻‍💻 Software Engineer /self taught/ <br/>
 👩🏻‍🎓 Studied [Recording Engineering](https://) at AES<br/>
 🎨 Making art with software<br/>
