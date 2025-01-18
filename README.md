@@ -4,7 +4,7 @@
 👩🏻‍💻 Software Engineer /self taught/ <br/>
 👩🏻‍🎓 Studied [Recording Engineering](https://) at AES<br/>
 🎨 Making art with software<br/>
-💭 Can understand or speak in Spanish, English, French, among others!<br/>
+💭 Spanish, English, French, Italian, among others!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=netphoria&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
