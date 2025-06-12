@@ -6,6 +6,9 @@
 🎨 Making art with software<br/>
 💭 Spanish, English, French, Italian, among others!<br/>
 
+My setup:
+Mouse: https://amzn.to/4jPNoHQ
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=netphoria&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
