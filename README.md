@@ -6,8 +6,11 @@
 🎨 Making art with software<br/>
 💭 Spanish, English, French, Italian, among others!<br/>
 
-My setup:
-Mouse: https://amzn.to/4jPNoHQ
+My setup:<br/>
+Mouse: https://amzn.to/4jPNoHQ<br/>
+
+Sell your skills online today: https://shopify.pxf.io/zxqWN0
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=netphoria&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
