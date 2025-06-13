@@ -9,7 +9,7 @@
 My setup:<br/>
 Mouse: https://amzn.to/4jPNoHQ<br/>
 
-Sell your skills online today: https://shopify.pxf.io/zxqWN0
+_Sell_ your skills online today: https://shopify.pxf.io/zxqWN0
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
